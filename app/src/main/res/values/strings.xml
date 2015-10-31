@@ -2,4 +2,6 @@
 	<string name="app_name">ChampionSelector</string>
 	<string name="fiveVfive">5v5</string>
 	<string name="threeVthree">3v3</string>
+	<string name="blueSide">Blue side</string>
+	<string name="redSide">Red side</string>
 </resources>
