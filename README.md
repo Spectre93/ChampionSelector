@@ -1,8 +1,8 @@
 # ChampionSelector
-League of Legends champion select helper
+This will be an app to help you with selecting a champion in League of Legends.
 
 # Copyright notice
-The artwork is owned by Riot Games, Inc. I claim no rights over these and they're merely used as placeholder.
+This project isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
 For the code:
 I retain all rights and do not permit distribution, reproduction, or derivative works. However, by Github terms of service, you may view and fork the code.
