@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.graphics.LightingColorFilter;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ImageView;
 
 public class MainActivity extends Activity{
 
@@ -26,10 +27,16 @@ public class MainActivity extends Activity{
 				findViewById(R.id.redSideButton).getBackground().setColorFilter(new LightingColorFilter(0x00000000, 0xFFCC0000));
 				break;
 			case R.id.redSideButton:
+				setContentView(R.layout.champion_select);
 				break;
 			case R.id.blueSideButton:
+				setContentView(R.layout.champion_select);
 				break;
-
 		}
+	}
+
+	public void onClick(View view){
+		ImageView imageview = (ImageView)view;
+		imageview.setImageDrawable(getResources().getDrawable(R.drawable.champion_katarina, getTheme()));
 	}
 }
