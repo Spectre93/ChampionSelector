@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<item name="leftbar" type="id"/>
-	<item name="bigfield" type="id"/>
+	<item name="left" type="id"/>
+	<item name="right" type="id"/>
+	<item name="body" type="id"/>
 	<item name="left_1" type="id"/>
 	<item name="left_2" type="id"/>
 	<item name="left_3" type="id"/>
 	<item name="left_4" type="id"/>
 	<item name="left_5" type="id"/>
-	<item name="centerfield" type="id"/>
+	<item name="center" type="id"/>
 	<item name="right_1" type="id"/>
 	<item name="right_2" type="id"/>
 	<item name="right_3" type="id"/>
 	<item name="right_4" type="id"/>
 	<item name="right_5" type="id"/>
+	<item name="blue_1" type="id"/>
+	<item name="blue_2" type="id"/>
+	<item name="blue_3" type="id"/>
+	<item name="blue_4" type="id"/>
+	<item name="blue_5" type="id"/>
+	<item name="red_1" type="id"/>
+	<item name="red_2" type="id"/>
+	<item name="red_3" type="id"/>
+	<item name="red_4" type="id"/>
+	<item name="red_5" type="id"/>
+	<item name="left_test" type="id"/>
 </resources>
